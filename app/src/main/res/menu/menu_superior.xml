@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firtstFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Inicio"/>
+
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/baseline_supervisor_account_24"
+        android:title="Solicitudes"/>
+
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/baseline_ondemand_video_24"
+        android:title="Videos"/>
+
+    <item
+        android:id="@+id/lugares"
+        android:icon="@drawable/baseline_storefront_24"
+        android:title="lugares"/>
+
+    <item
+        android:id="@+id/notificaciones"
+        android:icon="@drawable/baseline_circle_notifications_24"
+        android:title="Notificaciones"/>
+</menu>
